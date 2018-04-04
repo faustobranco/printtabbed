@@ -123,7 +123,7 @@ for linha in lst_Retorno:
 ## Authors
 ```
 =======================================================================================
-== Script Info:		printslice.py - Class with functions print long list of text with navigations (Arrows)
+== Script Info:		print_tabbed.py - Class with functions to format list of dicts on table 
 ==
 =======================================================================================
 == Create Author:	Fausto Branco
