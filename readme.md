@@ -107,8 +107,8 @@ for linha in lst_Retorno:
     print linha
     
 ```
-[![](https://github.com/faustobranco/printtabbed/blob/master/Capture.PNG)](https://github.com/faustobranco/printtabbed/blob/master/Capture.PNG)
-[![](https://github.com/faustobranco/printtabbed/blob/master/Capture2.PNG)](https://github.com/faustobranco/printtabbed/blob/master/Capture2.PNG)
+![](Capture.PNG)
+![](Capture2.PNG)
 
 ## Versioning
 ```
